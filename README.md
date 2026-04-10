@@ -1,0 +1,1 @@
+En esta actividad realizamos una actividad a traves del conocimientos pasado en clases. Los cuales nos sirvieron para realizar las tareas de hacer aparece una alerta al entrar al sitio web, mediante un id agregar un mensaje y tambien como poder imprimir en la consola.
